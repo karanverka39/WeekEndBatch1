@@ -1,0 +1,36 @@
+2020-08-06 12:48:56.851 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
+2020-08-06 12:49:20.959 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
+2020-08-06 12:54:08.960 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
+2020-08-06 12:54:11.245 [main] INFO  Pages.redbuspage -
+                    Clicking to date
+2020-08-06 12:54:14.313 [main] INFO  Pages.redbuspage -
+                    Clicking to search button
+2020-08-06 12:54:18.608 [main] INFO  Pages.redbuspage -
+                    Clicking to close
+2020-08-06 12:54:18.648 [main] INFO  Pages.redbuspage -
+                    doing scroll
+2020-08-06 12:54:19.144 [main] INFO  Pages.redbuspage -
+                    Clicking to viewseat
+2020-08-06 12:55:09.660 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
+2020-08-06 12:56:43.845 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
+2020-08-06 12:56:45.258 [main] INFO  Pages.redbuspage -
+                    Clicking to amritsar
+2020-08-06 12:56:45.942 [main] INFO  Pages.redbuspage -
+                    Clicking to Delhi
+2020-08-06 12:56:46.106 [main] INFO  Pages.redbuspage -
+                    Clicking to date
+2020-08-06 12:56:49.113 [main] INFO  Pages.redbuspage -
+                    Clicking to search button
+2020-08-06 12:56:53.296 [main] INFO  Pages.redbuspage -
+                    Clicking to close
+2020-08-06 12:56:53.326 [main] INFO  Pages.redbuspage -
+                    doing scroll
+2020-08-06 12:56:54.212 [main] INFO  Pages.redbuspage -
+                    Clicking to viewseat
+2020-08-06 12:57:18.269 [main] INFO  InitiateTests.inittt -
+                    webdriver lauching
